@@ -1,0 +1,331 @@
+.resources-page{
+    float: left;
+    width: 100%;
+    min-height: 178px;
+    background-color: #5dad46;
+    box-shadow: 1px 1px 2px #509440;
+}
+.resources-top{
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-family: sans-serif;
+}
+.resources-top h3{
+    font-size: 39px;
+    font-weight: 100;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    color: #ffffff;
+}
+.lower-border{
+    width: 11%;
+    margin-bottom: 14px;
+    border: 1px solid #7db966;
+}
+.resources-top ul{
+    margin: 16px auto;
+    padding-left: 16px;
+}
+.resources-top li{
+    display: inline;
+    padding-right: 7px;
+    color: #b1cca7;
+}
+.resources-top li a{
+    font-size: 13px;
+    padding-right: 7px;
+    color: #fffffe;
+}
+.resources-top li:nth-child(2){
+    padding-right: 8px;
+}
+.resources-top li:last-child a{
+    color: #93e078;
+    text-shadow: 1px 2px 0 #808080;
+}
+.resources-information{
+    float: left;
+    width: 100%;
+    min-height: 1198px;
+    font-family: sans-serif;
+    background-color: #ffffff;
+}
+.resources-para{
+    font-size: 15px;
+    line-height: 23px;
+    text-align: center;
+    margin-top: 98px;
+    color: #425740;
+}
+.side-and-scroll{
+    float: left;
+    width: 100%;
+    margin-top: 80px;
+}
+.side-bar{
+    float: left;
+    width: 27%;
+}
+.side-bar ul{
+    padding: 0;
+}
+.side-bar li {
+    list-style: none;
+    border: 1px solid #e3e6dc;
+    border-left: none;
+    border-bottom: none;
+    box-shadow: inset -7px 0 9px -5px #e3e6dc;
+}
+.side-bar li:first-child{
+    height: 122px;
+    border-top: none;
+}
+.side-bar li:last-child{
+    height: 122px;
+}
+.side-bar li:hover{
+    background-color: #f2f2f2;
+}
+.side-bar li:active{
+    color: #000;
+}
+.side-bar li a{
+    display: inline-block;
+    width: 93%;
+    height: 70px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 20px;
+    color: #81b350;
+}
+.side-bar li a div{
+    width: 205px;
+    margin-top: 17px;
+}
+.side-bar li:first-child a div{
+    margin-top: 88px !important;
+}
+.side-bar li:nth-child(4) a div{
+    margin-top: 26px !important;
+}
+.side-bar li:nth-child(n+8) a div{
+    margin-top: 26px !important;
+}
+.scroll-page{
+    float: left;
+    width: 65%;
+    height: 785px;
+    margin-top: 45px;
+    margin-left: 55px;
+    overflow-y: scroll;
+}
+.scroll-page h4{
+    font-size: 18px;
+    color: #3b7c36;
+}
+.scroll-page p{
+    width: 628px;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 23px;
+    margin-bottom: 25px;
+    color: #425740;
+}
+.scroll-page span a{
+    font-size: 15px;
+    font-weight: 100;
+    color: #579915;
+}
+.scroll-page-length{
+    height: 3000px;
+}
+.scroll-page::-webkit-scrollbar{
+    width: 8px;
+}
+.scroll-page::-webkit-scrollbar-track{
+    background-color: #f4f5f1;
+    border-radius:10px;
+}
+.scroll-page::-webkit-scrollbar-thumb{
+    background-color: #7a7a78;
+    border-radius:10px;
+}
+.check-products{
+    float: left;
+    width: 100%;
+    min-height: 490px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #ffffff;
+    background-color: #469248;
+    border: 1px solid #2d5c2e;
+    border-right: none;
+    border-left: none;
+}
+.hazard-green-image{
+    width: 100%;
+    margin: 90px 0 0 0;
+}
+.our-products-portion h3{
+    font-size: 30px;
+    font-weight: 100;
+    color: #ffffee;
+    margin: 13px 0 0 0;
+}
+.our-products-portion p{
+    width: 80%;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 22px;
+    color: #ffffee;
+    margin: 10px 0 48px 86px;
+}
+.get-report-btn button{
+    width: 333px;
+    height: 58px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+    border: 0;
+    border-radius: 4px 4px;
+    box-shadow: 1px 1px 2px #305f27;
+    background: url("../images/learnmorebg.png") center repeat-x;
+}
+.get-report-btn button:hover{
+    color: #ffffff;
+    background: #3b7c36;
+}
+.industry-news{
+    float: left;
+    width: 100%;
+    min-height: 980px;
+    background-color: #ffffff;
+}
+.industry-top{
+    float: left;
+    width: 100%;
+    height: 106px;
+    text-align: center;
+    padding-top: 85px;
+}
+.industry-top hr{
+    float: left;
+    display: block;
+}
+.industry-top hr:first-child{
+    width: 25%;
+}
+.industry-top hr:last-child{
+    width: 25%;
+}
+.news-insight {
+    width: 48%;
+    float: left;
+    font-size: 28px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    margin-top: -6px;
+}
+.updated-news{
+    float: left;
+    width: 100%;
+}
+.online{
+    float: left;
+    width: 35%;
+    text-align: left;
+    margin-top: 15px;
+}
+.online-heading{
+    width: 100%;
+}
+.date{
+    font-size: 13px;
+    font-weight: 100;
+    color: #c1c1c1;
+}
+.online-heading h4{
+    width: 75%;
+    font-size: 17px;
+    margin-top: 12px;
+    color: #3b7c36;
+}
+.online-para p{
+    width: 265px;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 22px;
+    color: #667764;
+    margin-bottom: 38px;
+}
+.sky{
+    float: left;
+    width: 35.5%;
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.sky-heading{
+    width: 100%;
+}
+.sky-heading h4{
+    width: 80%;
+    font-size: 17px;
+    margin-top: 12px;
+    color: #3b7c36;
+}
+.sky-para p{
+    width: 265px;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 22px;
+    color: #667764;
+    margin-bottom: 38px;
+}
+.agents{
+    float: right;
+    width: 29%;
+    text-align: left;
+    margin-top: 15px;
+}
+.agents-heading{
+    width: 100%;
+}
+.agents-heading h4{
+    width: 80%;
+    font-size: 17px;
+    margin-top: 12px;
+    color: #3b7c36;
+}
+.agents-para p{
+    width: 265px;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 22px;
+    color: #667764;
+    margin-bottom: 38px;
+}
+.read-more{
+    float: left;
+    width: 146px;
+    height: 48px;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 3px 3px;
+    border: 1px solid #3b7c36;
+}
+.read-more a{
+    display: block;
+    font-size: 13px;
+    font-weight: 800;
+    height: 35px;
+    margin-top: 14px;
+    color: #3b7c36;
+}
+.industry-slide-changer{
+    float: left;
+    width: 100%;
+    margin-top: 110px;
+}

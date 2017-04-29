@@ -1,0 +1,326 @@
+.articles-news-page{
+    float: left;
+    width: 100%;
+    min-height: 178px;
+    background-color: #5dad46;
+    box-shadow: 1px 1px 2px #509440;
+}
+.articles-news-top{
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-family: sans-serif;
+}
+.articles-news-top h3{
+    font-size: 40px;
+    font-weight: 100;
+    margin-bottom: 5px;
+    color: #ffffff;
+}
+.lower-border {
+    width: 11%;
+    margin-bottom: 14px;
+    border: 1px solid #7db966;
+}
+.articles-news-top ul{
+    margin: 16px auto;
+    padding-left: 16px;
+}
+.articles-news-top li{
+    display: inline;
+    padding-right: 7px;
+    color: #b1cca7;
+}
+.articles-news-top li a{
+    font-size: 13px;
+    padding-right: 7px;
+    color: #fffffe;
+}
+.articles-news-top li:nth-child(2){
+    padding-right: 8px;
+}
+.articles-news-top li:last-child a{
+    color: #93e078;
+    text-shadow: 1px 2px 0 #808080;
+}
+.pagination{
+    float: left;
+    width: 100%;
+    min-height: 68px;
+    font-family: sans-serif;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e5e5e5;
+}
+.left-side {
+    float: left;
+    width: 50%;
+    margin-top: 25px;
+}
+.left-arrow{
+    display: block;
+    float: left;
+    margin-top: -11px;
+    padding-right: 5px;
+}
+.left-arrow:before{
+    content: "\00FFE9";
+    font-size: 25px;
+    color: #3b7c36;
+}
+.left-side a{
+    font-size: 12px;
+    font-weight: 600;
+    color: #3b7c36;
+}
+.right-side{
+    float: left;
+    width: 50%;
+    margin-top: 27px;
+}
+.right-arrow{
+    display: block;
+    float: right;
+    margin-top: -14px;
+    padding-left: 5px;
+}
+.right-arrow:after{
+    content: "\00FFEB";
+    font-size: 25px;
+    color: #3b7c36;
+}
+.right-side a{
+    float: right;
+    font-size: 12px;
+    font-weight: 600;
+    color: #3b7c36;
+}
+.flood-insurance{
+    float: left;
+    width: 100%;
+    min-height: 253px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e5e5e5;
+}
+.flood-insurance-date{
+    font-size: 12px;
+    color: #b7b7b7;
+}
+span{
+    color: #b7b7b7;
+}
+.flood-insurance-portion{
+    float: left;
+    width: 100%;
+    margin-top: 56px;
+}
+.flood-insurance-portion h4{
+    font-size: 26px;
+    font-weight: 100;
+    width: 955px;
+    margin: 13px 0 0 21px;
+    color: #000;
+}
+.flood-insurance-portion h6{
+    font-size: 12px;
+    font-weight: 100;
+    margin-top: 15px;
+}
+.flood-insurance-portion a{
+    color: #579915;
+}
+.f
+.flood-destruction{
+    float: left;
+    width: 100%;
+    min-height: 1200px;
+    font-family: sans-serif;
+    background-color: #ffffff;
+}
+.destruction-para-top{
+    width: 100%;
+}
+.destruction-para-top p{
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 22px;
+    text-align: left;
+    margin: 58px 0 34px 0;
+    color: #718170;;
+}
+.flooded-image{
+    float: left;
+    width: 100%;
+}
+.flooded-image img{
+    display: block;
+    margin: 0 auto 8px;
+}
+.image-caption{
+    font-size: 12px;
+    text-align: center;
+}
+.image-caption span{
+    font-style: italic;
+    color: #425740 !important;
+}
+.destruction-para-bottom{
+    width: 100%;
+}
+.destruction-para-bottom p{
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 22px;
+    text-align: left;
+    margin-bottom: 50px;
+    color: #718170;
+}
+.benefits-para{
+    margin: 40px 0 28px 0;
+}
+.photo-shop-para{
+    float: left;
+    width: 100%;
+    min-height: 306px;
+    text-align: center;
+    font-family: sans-serif;
+    background: #f8faf5;
+    border: 1px solid #e5e5e5;
+    border-right: none;
+    border-left: none;
+}
+.photo-shop-para p{
+    float: left;
+    width: 870px;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 26px;
+    margin: 58px 0 20px 59px;
+    color: #5f605e;
+}
+.real-estate p{
+    font-size: 17px;
+    font-weight: bold;
+    font-style: normal;
+    margin: 25px 0 0 76px !important;
+    color: #3b7c36;
+}
+.photo-shop-mid-line{
+    width: 95px;
+    border: 1px solid #e3e6dc;
+}
+.real-estate span{
+    font-size: 15px;
+    font-weight: 100;
+    font-style: normal;
+    color: #70806d !important;
+}
+.subtitle-page{
+    float: left;
+    width: 100%;
+    min-height: 620px;
+    font-family: sans-serif;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e5e5e5;
+}
+.subtitle h4{
+    font-size: 17px;
+    text-align: left;
+    margin: 58px 0 18px 0;
+    color: #3b7c36;
+}
+.subtitle p{
+    font-size: 15px;
+    text-align: left;
+    line-height: 22px;
+    margin-bottom: 35px;
+    color: #425740;
+}
+.bullet h4{
+    font-size: 17px;
+    text-align: left;
+    color: #3b7c36;
+}
+.bullet ul{
+     width: 96%;
+    margin-bottom: 60px;
+}
+.bullet li{
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 22px;
+    color: #425740;
+}
+.liked-the-articles{
+    float: left;
+    width: 100%;
+    min-height: 102px;
+    background-color: #f8faf5;
+    border: 1px solid #e5e5e5;
+    border-right: none;
+    border-left: none;
+}
+.links-heading{
+    float: left;
+    width: 50%;
+}
+.links-heading h4{
+    font-size: 17px;
+    margin: 45px 0 0 42px;
+    color: #3b7c36;
+}
+.social-links2{
+    float: left;
+    width: 50%;
+}
+.social-links2 img{
+    float: right;
+    margin: 44px 38px 0 0;
+}
+.check-products{
+    float: left;
+    width: 100%;
+    min-height: 490px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #ffffff;
+    background-color: #469248;
+    border: 1px solid #2d5c2e;
+    border-right: none;
+    border-left: none;
+}
+.hazard-green-image{
+    width: 100%;
+    margin: 90px 0 0 0;
+}
+.our-products-portion h3{
+    font-size: 30px;
+    font-weight: 100;
+    color: #ffffee;
+    margin: 13px 0 0 0;
+}
+.our-products-portion p{
+    width: 80%;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 22px;
+    color: #ffffee;
+    margin: 10px 0 48px 86px;
+}
+.get-report-btn button{
+    width: 333px;
+    height: 58px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+    border: 0;
+    border-radius: 4px 4px;
+    box-shadow: 1px 1px 2px #305f27;
+    background: url("../images/learnmorebg.png") center repeat-x;
+}
+.get-report-btn button:hover{
+    color: #ffffff;
+    background: #3b7c36;
+}

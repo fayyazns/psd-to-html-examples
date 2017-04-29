@@ -1,0 +1,138 @@
+body{
+    font: 400 15px/1.8 Lato, sans-serif;
+    color: #777777;
+}
+h3, h4{
+    font-size: 20px;
+    letter-spacing: 10px;
+    margin: 10px 0 30px 0;
+    color: #111111;
+}
+.navbar{
+    font-family: Montserrat, sans-serif ;
+    font-size: 11px !important;
+    letter-spacing: 4px;
+    margin-bottom: 0;
+    background-color: #2d2d30;
+    border: 0;
+    opacity: 0.9;
+}
+.navbar li a, .navbar .navbar-brand{
+    color: #d5d5d5 !important;
+}
+.navbar-nav li a:hover{
+    color: #ffffff !important;
+}
+.navbar-nav li.active a{
+    color: #ffffff !important;
+    background-color: #29292c !important;
+}
+.navbar-default .navbar-toggle{
+    border-color: transparent;
+}
+.open .dropdown-toggle{
+    color: #ffffff;
+    background-color: #555555 !important;
+}
+.dropdown-menu li a{
+    color: #000 !important;
+}
+.dropdown-menu li a:hover{
+    background-color: #ff0000 !important;
+}
+.container{
+    padding: 80px 120px;
+}
+.person{
+    width: 80%;
+    height: 80%;
+    margin-bottom: 25px;
+    border: 10px solid transparent;
+    opacity: 0.7;
+}
+.person:hover{
+    border-color: #f1f1f1;
+}
+.carousel-inner img{
+    margin: auto;
+    width: 100%;
+    -webkit-filter: grayscale(90%);
+    filter: grayscale(90%);
+}
+.carousel-caption h3{
+    color: #ffffff !important;
+}
+@media (max-width: 600px) {
+    .carousel-caption{
+        display: none;
+    }
+}
+.bg-1{
+    background: #2d2d30;
+    color: #bdbdbd;
+}
+.bg-1 h3{
+    color: #ffffff;
+}
+.bg-1 p{
+    font-style: italic;
+}
+.list-group-item:first-child{
+    border-top-right-radius:0;
+    border-top-left-radius:0;
+}
+.list-group-item:last-child {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.thumbnail{
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius:0;
+}
+.thumbnail p{
+    margin-top: 15px;
+    color: #555;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: #333333;
+    color: #f1f1f1;
+    border-radius:0;
+    transition: 0.2s;
+}
+.btn:hover, .btn:focus{
+    border: 1px solid #333333;
+    background-color: #ffffff;
+    color: #000;
+}
+.modal-header, h4, .close{
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff !important;
+    background-color: #333333;
+}
+.modal-header, .modal-body{
+    padding: 40px 50px;
+}
+.form-control {
+    border-radius: 0;
+}
+textarea {
+    resize: none;
+}
+.nav-tabs li a{
+    color: #777777;
+}
+footer{
+    padding: 32px;
+    color: #f5f5f5;
+    background-color: #2d2d30;
+}
+footer a{
+    color: #f5f5f5;
+}
+footer a:hover {
+    color: #777;
+    text-decoration: none;
+}

@@ -1,0 +1,189 @@
+.contact-us-page{
+    float: left;
+    width: 100%;
+    min-height: 187px;
+    text-align: center;
+    background-color: #438bc5;
+}
+.contact-us-top{
+    float: left;
+    width: 100%;
+}
+.contact-us-top h3{
+    font-size: 48px;
+    font-weight: lighter;
+    margin: 60px 0 20px 0;
+    color: #ffffff;
+    text-shadow: 0 1px 2px #a7cbe5;
+}
+.contact-us-top ul{
+    float: left;
+    width: 100%;
+    padding-left: 5px;
+    margin: 0;
+}
+.contact-us-top li{
+    display: inline;
+    font-size: 12px;
+    margin-right: 8px;
+    color: #ffffff;
+}
+.contact-us-top li:last-child a{
+    color: #c3e5fc;
+    text-shadow: none;
+}
+.contact-us-top a{
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 100;
+    height: 25px;
+    color: #ffffff;
+    text-shadow: 0 1px 2px #7eb8de;
+}
+.get-in-touch{
+    float: left;
+    width: 100%;
+    min-height: 598px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e9edef;
+}
+.get-in-touch-info{
+    float: left;
+    width: 71%;
+}
+.left-section{
+    float: left;
+    width: 100%;
+}
+.left-section h3{
+    font-size: 23px;
+    font-weight: bold;
+    margin: 90px 0 18px 0;
+    color: #000;
+}
+.info-line{
+    float: left;
+    height: 30px;
+    width: 100%;
+}
+.info-line hr{
+    float: left;
+    width: 116px;
+    border: 1px solid #000;
+    border-bottom-width: 0;
+}
+.left-section p{
+    width: 613px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 21px;
+    margin-bottom: 50px;
+    color: #454e55;
+}
+.contact-us-form{
+    float: left;
+    width: 100%;
+}
+.contact-us-form input{
+    width: 187px;
+    height: 37px;
+    padding-left: 15px;
+    margin: 0 10px 10px 0;
+    color: #454e55;
+    border: 1px solid #e9edef;
+    background-color: #ffffff;
+    border-radius: 2px;
+}
+.contact-us-form textarea{
+    resize: none;
+    width: 620px;
+    height: 127px;
+    font-size: 12px;
+    font-family: sans-serif;
+    padding: 18px 0 0 18px;
+    border: 1px solid #e9edef;
+    background-color: #ffffff;
+    border-radius: 2px;
+}
+.contact-us-form input:nth-child(3){
+    margin-right: 0;
+}
+.contact-us-form ::-webkit-input-placeholder {
+    font-size: 12px;
+    color: #454e55;
+}
+.send-message button{
+    width: 162px;
+    height: 34px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: left;
+    padding-left: 15px;
+    position: relative;
+    color: #ffffff;
+    background-color: #01d6b5;
+    box-shadow: 0 4px 1px #008671;
+    text-shadow: 0 1px 2px #92989c;
+    border: none;
+    border-radius: 4px;
+}
+.send-message button:after{
+    content: "\02713";
+    margin-left: 22px;
+    font-size: 17px;
+    color: #ffffff;
+    position: absolute;
+    top: 4px;
+}
+.right-section{
+    float: left;
+    width: 28%;
+    border-left: 1px solid #e9edef;
+}
+.contact-detail{
+    float: left;
+    width: 100%;
+    margin-left: 30px;
+}
+.contact-detail h3{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 90px 0 28px 0;
+    color: #202020;
+}
+.detail-top{
+    float: left;
+    width: 100%;
+    margin-bottom: 25px;
+}
+.detail-top span{
+    display: inline-block;
+    width: 145px;
+    font-size: 12px;
+    font-weight: 100;
+    margin-bottom: 6px;
+    color: #454e55;
+}
+.detail-bottom{
+    float: left;
+    width: 100%;
+    height: 380px;
+}
+.detail-bottom span{
+    display: inline-block;
+    width: 145px;
+    font-size: 12px;
+    font-weight: 100;
+    margin-bottom: 6px;
+    color: #454e55;
+}
+.detail-bottom p{
+    font-size: 12px;
+    font-weight: 100;
+    margin-top: 3px;
+    color: #454e55;
+}
+.detail-bottom .color{
+    color: #00c6ff;
+}

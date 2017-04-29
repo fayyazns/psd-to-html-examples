@@ -1,0 +1,43 @@
+body{
+    font: 20px "Montserrat", sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+}
+p{
+    font-size: 16px;
+}
+.margin{
+    margin-bottom: 45px;
+}
+.bg-1{
+    color: #ffffff;
+    background-color: #1abc9c;
+}
+.bg-2{
+    color: #ffffff;
+    background-color: #474e5d;
+}
+.bg-3{
+    color: #555555;
+    background-color: #ffffff;
+}
+.bg-4{
+    color: #ffffff;
+    background-color: #2f2f2f;
+}
+.container-fluid{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar{
+    font-size:12px;
+    letter-spacing:5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 0;
+    border:0;
+    border-radius: 0;
+}
+.navbar-nav li a:hover{
+    color: #1abc9c !important;
+}

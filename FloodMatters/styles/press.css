@@ -1,0 +1,259 @@
+.press-page{
+    float: left;
+    width: 100%;
+    min-height: 187px;
+    text-align: center;
+    background-color: #438bc5;
+}
+.press-top{
+    float: left;
+    width: 100%;
+}
+.press-top h3{
+    font-size: 48px;
+    font-weight: lighter;
+    margin: 60px 0 20px 0;
+    color: #ffffff;
+    text-shadow: 0 1px 2px #a7cbe5;
+}
+.press-top ul{
+    float: left;
+    width: 100%;
+    padding-left: 5px;
+    margin: 0;
+}
+.press-top li{
+    display: inline;
+    font-size: 12px;
+    margin-right: 8px;
+    color: #ffffff;
+}
+.press-top li:last-child a{
+    color: #c3e5fc;
+    text-shadow: none;
+}
+.press-top a{
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 100;
+    height: 25px;
+    color: #ffffff;
+    text-shadow: 0 1px 2px #7eb8de;
+}
+.press-page-detail{
+    float: left;
+    width: 100%;
+    min-height: 2340px;
+    background-color: #ffffff;
+}
+.benutech-welcome{
+    float: left;
+    width: 68%;
+    height: 2142px;
+    margin-top: 92px;
+}
+.the-new-york-times, .forbes, .housing-wire{
+    float: left;
+    width: 100%;
+}
+.housing-wire img{
+    float: left;
+    margin-right: 5px;
+}
+.the-new-york-times h1{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 0 15px 0;
+    color: #b2b2b2;
+}
+.housing-wire h1{
+    float: left;
+    width: 75%;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 5px 0 18px 0;
+    color: #b9b9b9;
+}
+.forbes h1{
+    font-size: 27px;
+    font-weight: bold;
+    margin: 0 0 10px 0;
+    color: #b2b2b2;
+}
+.the-new-york-times h3, .forbes h3, .housing-wire h3,
+.press-road-subject h3, .press-red-flood h3{
+    width: 568px;
+    font-size: 23px;
+    font-weight: lighter;
+    margin: 0 0 18px 0;
+    color: #000;
+}
+.press-page-line{
+    float: left;
+    height: 38px;
+    width: 100%;
+}
+.press-page-line hr{
+    float: left;
+    width: 116px;
+    border: 1px solid #000;
+    border-bottom-width: 0;
+}
+.read-full-article-press-page{
+    float: left;
+    width: 40%;
+}
+.read-full-article-press-page a{
+    display: inline-block;
+    width: 134px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 85px;
+    color: #189ce7;
+    text-shadow: 0 1px 2px #c5e6f9;
+    border: 2px solid #d4dce0;
+    border-radius: 4px;
+}
+.read-full-article-press-page a:hover{
+    background: #00c6ff;
+    color: #ffffff;
+}
+.the-new-york-times p, .forbes p, .housing-wire p{
+    width: 566px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 21px;
+    margin-bottom: 30px;
+    color: #747a80;
+}
+.press-road-subject, .press-red-flood{
+    float: left;
+    width: 100%;
+}
+.press-road-subject img, .press-red-flood img{
+    float: left;
+    margin-right: 28px;
+}
+.press-road-subject p, .press-red-flood p{
+    float: left;
+    width: 285px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 21px;
+    margin: 0 0 30px 0;
+    color: #747a80;
+}
+.pagination-numbers{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+.pagination-numbers ul{
+    float: left;
+    width: 90%;
+    padding: 0;
+    margin: 0;
+}
+.pagination-numbers li{
+    display: inline;
+}
+.pagination-numbers a{
+    font-size: 11px;
+    font-weight: lighter;
+    margin: 0 1px;
+    padding: 8px 11px;
+    color: #454e55;
+    border: 1px solid #e9edef;
+    border-radius: 2px 2px;
+}
+.pagination-numbers a:hover{
+    background-color: #189ce7;
+    color: #ffffff;
+}
+.press-page-aside{
+    float: left;
+    width: 31%;
+    border-left: 1px solid #e9edef;
+}
+.press-page-aside ul{
+    float: left;
+    width: 100%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.press-page-aside li{
+    width: 301px;
+    height: 50px;
+    line-height: 50px;
+    margin: 0;
+    border-bottom: 1px solid #e9edef;
+}
+.press-page-aside li:first-child{
+    height: 72px;
+}
+.press-page-aside a{
+    display: block;
+    font-size: 11px;
+    font-weight: bold;
+    margin-left: 30px;
+    color: #000;
+}
+.testimonials{
+    float: left;
+    width: 100%;
+}
+.testimonials h3{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 58px;
+    color: #202020;
+}
+.testimonials p{
+    width: 268px;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 21px;
+    margin: 0 0 22px 32px;
+    color: #7f8b94;
+}
+.testimonials-line{
+    float: left;
+    height: 40px;
+    width: 91%;
+    margin-left: 32px;
+}
+.testimonials-line hr{
+    float: left;
+    width: 265px;
+    border: 2px solid #e9edef;
+}
+.ceo-benutech{
+    float: left;
+    width: 100%;
+    margin-left: 30px;
+}
+.ceo-benutech img{
+    float: left;
+    margin-right: 10px;
+}
+.ceo-benutech .name{
+    float: left;
+    width: 150px;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 10px 0 4px 0;
+    color: #202020;
+}
+.ceo-benutech .designation{
+    float: left;
+    width: 150px;
+    font-size: 11px;
+    font-weight: bold;
+    color: #189ce7;
+}

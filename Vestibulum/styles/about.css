@@ -1,0 +1,152 @@
+/*about-us-description styling start*/
+.about-us-description{
+    float: left;
+    width: 100%;
+    height: 504px;
+    background-color: #f3f3f3;
+}
+.donec-heading{
+    float: left;
+    width: 100%;
+}
+.donec-heading h3{
+    font-size: 28px;
+    font-weight: bold;
+    margin: 52px 0 14px 8px;
+    color: #e1524b;
+}
+.donec-heading p{
+    font-size: 14px;
+    font-weight: lighter;
+    line-height: 20px;
+    margin-bottom: 60px;
+    padding-right: 30px;
+    color: #7f8c8c;
+}
+.choosing-criteria{
+    margin-top: 0 !important;
+}
+/*about-us-description styling end*/
+
+/*our-team-description styling start*/
+.our-team-description{
+    float: left;
+    width: 100%;
+    height: 398px;
+    background-color: #ececec;
+}
+.our-team, .team-members{
+    float: left;
+    width: 100%;
+}
+.our-team h3{
+    text-transform: uppercase;
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+    margin: 70px 0;
+    color: #7f8c8c;
+}
+.team-members ul{
+    list-style: none;
+    float: left;
+    width: 100%;
+    padding: 0;
+}
+.team-members li{
+    position: relative;
+    display: inline-block;
+    float: left;
+    width: 270px;
+    height: 310px;
+    text-align: center;
+    margin-right: 30px;
+    background-color: #f8f8f8;
+    border-radius: 4px 4px;
+    box-shadow: 0 5px 0 #e5e6e6;
+}
+.team-members li:last-child{
+    margin-right: 0;
+}
+.team-members li:hover{
+    background-color: #90d1cb;
+}
+.team-members p{
+    font-size: 12px;
+    font-style: italic;
+    font-weight: lighter;
+    line-height: 20px;
+    text-align: left;
+    padding: 35px 38px;
+}
+.team-members p span{
+    font-style: normal;
+}
+.team-members li:hover p{
+    color: #ffffff;
+}
+.team-members img{
+    margin-right: 7px;
+    border-radius: 4px 4px;
+}
+.team-members a:nth-child(5) img{
+    margin-right: 0;
+}
+.team-members .hidden{
+    display: none;
+}
+.team-members li:hover .hidden{
+    display: inline-block;
+}
+.jhon-doe{
+    position: absolute;
+    bottom: -20px;
+    left: 35px;
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 50px;
+    color: #ffffff;
+    background-color: #98a3a3;
+    border-radius: 5px 5px;
+    box-shadow: 0 5px 0 #7f8c8c;
+}
+.team-members li:hover .jhon-doe{
+    color: #ffffff;
+    background-color: #e8645a;
+    box-shadow: 0 5px 0 #e2534b;
+}
+
+/*our-team-description styling end*/
+
+/*best-solution section styling start*/
+.best-solution-description{
+    float: left;
+    width: 100%;
+    height: 590px;
+    background-color: #f3f3f3;
+}
+.best-solution{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.best-solution h3{
+    font-size: 38px;
+    font-weight: lighter;
+    margin-top: 218px;
+    margin-bottom: 0;
+    color: #e1524b;
+}
+.best-solution p{
+    font-size: 13px;
+    font-weight: lighter;
+    line-height: 20px;
+    margin-top: 11px;
+    margin-bottom: 36px;
+    padding: 0 116px;
+    color: #777777;
+}
+/*best-solution section styling end*/
