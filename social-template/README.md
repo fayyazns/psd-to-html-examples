@@ -5,7 +5,7 @@ Developed using custom styling with **Bootstrap**.
 
 ### Screenshots
 
-###### Home Page
+###### Main Page
 
-![Home Page](https://github.com/fayyazns/psd-to-html-examples/blob/master/FloodMatters/screenshot/main.png)
+![Main Page](https://github.com/fayyazns/psd-to-html-examples/blob/master/social-template/screenshots/main.png)
 
